@@ -1,5 +1,5 @@
 # Machine-Learning-Specialization
-This repository consists of the exercises and assignments that I had to do for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) offered by DeepLearning.AI and Stanford Online on Coursera.
+This repository consists of the exercises and assignments that I did for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) offered by DeepLearning.AI and Stanford Online on Coursera. [Here](https://www.coursera.org/account/accomplishments/specialization/certificate/JCZU8TKPBL7X) are the credentials of the certification.
 
 ## Specialization Outline
 The Specialization is divided into 3 courses:
